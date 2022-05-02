@@ -4,4 +4,4 @@
 💼 Python, C++, Javascript, Unreal Engine, Blender, Adobe After Effects, Adobe Photoshop
 🎮 Hypixel Bridge Duels & Valorant Player
 
-[![crrystalz's gitHub stats](https://github-readme-stats.vercel.app/api?username=crrystalz)](https://github.com/anuraghazra/github-readme-stats)
+![crrystalz's gitHub stats](https://github-readme-stats.vercel.app/api?username=crrystalz&show_icons=true&theme=radical)

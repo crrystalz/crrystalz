@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋
 - 🔭 Currently working on Supai (Check pinned repos)
 - 📫 Contact me on Discord at crrystalz#001
 - 💼 Python, C++, Javascript, Unreal Engine, Blender, Adobe After Effects, Adobe Photoshop

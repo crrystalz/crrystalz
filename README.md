@@ -1,5 +1,5 @@
 ### Hi👋
-- 🔭 Currently working on Supai (Check pinned repos)
+- 🔭 Currently working on a deep-learning algorithm to find improvements to the effeciency of CRISPR-CAS, Supai (check pinned repos), and a Discord bot for Revised Ranked Bedwars (server releasingg soon)
 - 📫 Contact me on Discord at crrystalz#0001
 - 💼 Python, C++, Javascript, Unreal Engine, Blender, Adobe After Effects, Adobe Photoshop
 - 🎮 Hypixel Bridge Duels Gamer

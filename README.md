@@ -2,7 +2,7 @@
 - 🔭 Currently working on Supai (Check pinned repos)
 - 📫 Contact me on Discord at crrystalz#0001
 - 💼 Python, C++, Javascript, Unreal Engine, Blender, Adobe After Effects, Adobe Photoshop
-- 🎮 Hypixel Bridge Duels & Valorant Player
+- 🎮 Hypixel Bridge Duels Gamer
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

@@ -1,9 +1,11 @@
 ### Hi👋
 - 🔭 Currently working on:
-  - a deep-learning algorithm to find improvements to the effeciency of CRISPR-CAS
-   - competitive programming (usaco and codeforces solved problems repo coming soon)
-   - Emerald (check pinned repos)
-   - ricing Arch Linx >:) (dotfiles releasing soon)
+  - revamping person portfolio website
+  - competitive programming (usaco and codeforces solved problems repo coming soon)
+  - using google earth engine + deep learning to simulate and predict aquifer usage and levels
+  - emerald discord bot (check pinned repos)
+  - crrystalcord, a discord
+  - ricing arch linux >:) (dotfiles releasing soon)
 - 📫 Contact me on Discord at crrystalz#0001
 - 💼 Python, C++, Java, Javascript, Blender, Adobe After Effects, Adobe Photoshop
 - 🤖 VEX Robotics Top 20

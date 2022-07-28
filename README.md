@@ -1,4 +1,4 @@
-### hey there!
+### 👋 hey there!
 - 🔭 currently working on:
   - competitive programming (usaco and codeforces solved problems repo coming soon)
   - idealistic (check pinned repos)

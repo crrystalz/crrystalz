@@ -2,8 +2,8 @@
 - 🔭 currently working on:
   - competitive programming (usaco and codeforces solved problems repo coming soon)
   - idealistic (check pinned repos)
-  - keebfinder discord bot (check pinned repos)
   - emerald discord bot (check pinned repos)
+  - keebfinder discord bot (check pinned repos)
   - ricing arch linux >:) (dotfiles releasing soon)
   - revamping personal portfolio website
   - using google earth engine + deep learning to simulate and predict aquifer usage and levels

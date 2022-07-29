@@ -8,7 +8,7 @@
   - revamping personal portfolio website
   - using google earth engine + deep learning to simulate and predict aquifer usage and levels
   - crrystalcord, a betterdiscord theme
-- 📫 contact me on discord at crrystlaz#0001
+- 📫 contact me on discord at crrystalz#0001
 - 💼 python, html/js/css, adobe after effects, adobe photoshop, blender
 - 🤖 vex robotics top 20
 - 🎮 hypixel bridge duels + steam gamer

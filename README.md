@@ -8,7 +8,7 @@
   - ricing arch linux >:) (dotfiles releasing soon)
   - revamping personal portfolio website
   - crrystalcord, a betterdiscord theme
-- 📫 contact me on discord at crrystalz#0001
+- 📫 contact me on discord at crrystalz#8630
 - 💜 keyboard, audio gear, pc tweak enthusiast
 - 🎮 gamer
 

@@ -1,17 +1,24 @@
-### 👋 hey there!
-- 🔭 currently working on:
-  - nududi (non uniformity detection using drone imagery)
-  - competitive programming (usaco and codeforces solved problems repo coming soon)
-  - idealistic (check pinned repos)
-  - emerald discord bot (check pinned repos)
-  - keebfinder (wip, private repo)
-  - ricing arch linux >:) (dotfiles releasing soon)
-  - revamping personal portfolio website
-  - crrystalcord, a betterdiscord theme
-- 📫 contact me on discord at crrystalz#8630
-- 💜 keyboard, audio gear, pc tweak enthusiast
-- 🎮 gamer
+💎 rrishi anand.
+- gunn 26' 🏫
+- bay area & atl 📍
+- interested in pcs, mech keebs, and mice 🖥️
+- likes to game 🎮
 
+<br>
+
+📫 contact me:
+- @rrishi.anand on insta 📷
+- @rrishi.anand on snap 👻
+- @crrystalz on discord 🦀
+
+<br>
+
+🔭 currently working on:
+- nududi 🚜
+- potholemapper 🛣️
+- idealistic ue5 port ⚔️
+
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=crrystalz&show_icons=true&theme=tokyonight" />

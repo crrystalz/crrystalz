@@ -16,6 +16,7 @@
 🔭 currently working on:
 - nududi 🚜
 - potholemapper 🛣️
+- 2d pixel path tracing ☀️
 - idealistic ue5 port ⚔️
 
 <br>

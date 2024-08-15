@@ -1,26 +1,3 @@
-💎 rrishi anand.
-- gunn 26' 🏫
-- bay area & atl 📍
-- interested in pcs, mech keebs, and mice 🖥️
-- likes to game 🎮
-
-<br>
-
-📫 contact me:
-- @rrishi.anand on insta 📷
-- @rrishi.anand on snap 👻
-- @crrystalz on discord 🦀
-
-<br>
-
-🔭 currently working on:
-- nududi 🚜
-- potholemapper 🛣️
-- 2d pixel path tracing ☀️
-- idealistic ue5 port ⚔️
-
-<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crrystalz&show_icons=true&theme=tokyonight" />
-</a>
+palo alto | atlanta
+ig - @rrishi.anand
+working on the occasional coding project

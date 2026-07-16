@@ -1,5 +1,5 @@
-palo alto | atlanta
+Phoenix | Bay Area | Atlanta
 
-ig - @rrishi.anand
+IG - @rrishi.anand
 
-working on the occasional coding project
+Working on the occasional coding project

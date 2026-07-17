@@ -1,5 +1,3 @@
-Phoenix | Bay Area | Atlanta
+cs @ asu
 
-IG - @rrishi.anand
-
-Working on the occasional coding project
+bay area & atlanta
